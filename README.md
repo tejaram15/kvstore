@@ -1,0 +1,2 @@
+### Basic key value store 
+This version of key value store has 2 simple functions setValue, getValue. The implementation of these functions can be found in the src/ directory and the tests can be found in test/.

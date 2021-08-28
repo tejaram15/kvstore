@@ -1,0 +1,14 @@
+{
+  "name": "kvstore",
+  "version": "1.0.0",
+  "description": "Key value store in Javascript.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
+  "author": "tejaram15",
+  "license": "MIT License",
+  "dependencies": {
+    "mocha": "^9.1.1"
+  }
+}
